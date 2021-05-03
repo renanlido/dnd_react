@@ -1,70 +1,132 @@
-# Getting Started with Create React App
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![React.js](https://img.shields.io/badge/-ReactJs-blue)](https://choosealicense.com/licenses/mit)
+[![GitHub last commit](https://img.shields.io/badge/last%20comit-may%202021-orange)](https://github.com/renanlido/goRestaurant/commits)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<!--LOGO-->
+<br/>
+<div align="center">
+    <h1> Drag and Drop </h1>
+<br/><br/>
+</div>
 
-In the project directory, you can run:
+<!--THE RESULT-->
 
-### `yarn start`
+# <strong>O projeto!</strong>
+<div>
+  <img src="./assets/modelo.gif" alt="Home">
+<div>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<div>
+    </br>
+</div>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<!-- ABOUT THE PROJECT -->
+## **Português**
+<br/>
 
-### `yarn test`
+# <strong>Sobre o Projeto</strong>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Neste projeto, criei uma lista de tarefas.
+Todas as tarefas podem ser movidas entre as tabelas apenas arrastando e soltando. 
+</br></br>
+Este projeto é baseado em React e a biblioteca utilizada foi a react-beautiful-dnd.
 
-### `yarn build`
+</br>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<!--INSTALATION-->
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# **Instalação**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Para instalar e utilizar este projeto o processo é bem simples:
+1. Após clonar o projeto utilize o comando:
+    ```sh
+    yarn
+    ```
+    para instalar as dependencaias. Caso não tenha o yarn instalado, utilize o gerenciador de pacotes da sua preferência.
 
-### `yarn eject`
+2. Utilize o comando abaixo para rodar o aplicativo.
+    ```ssh
+    yarn start
+    ```
+<!-- LICENSE -->
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# **Licença**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<!-- CONTACT -->
+</br>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+# **Contato**
 
-## Learn More
+### Renan Oliveira - **renanlido@yahoo.com.br**
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+[Github](https://github.com/renanlido) - **https://github.com/renanlido** </br>
+[Linkedin](https://www.linkedin.com/in/renanlido/) - **https://www.linkedin.com/in/renanlido/**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+</br></br>
+Obrigado por ter vindo 😊🤗
+</br>
+</br>
+</br>
+</br>
 
-### Code Splitting
+----------
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+## **English**
+<br/>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<!--THE RESULT-->
 
-### Making a Progressive Web App
+# <strong>The project!</strong>
+<div>
+  <img src="./assets/modelo.gif" alt="Home">
+<div>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<div>
+    </br>
+</div>
 
-### Advanced Configuration
+# <strong>Aboult the project</strong>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+In this project, i created a task list. All tasks can be moved between lists only dragging and dropping.
+</br></br>
+This project is based on React and in it we use the lib react-beautiful-dnd.
 
-### Deployment
+</br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+<!--INSTALATION-->
 
-### `yarn build` fails to minify
+# **Instalation**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This instalation is very simple:
+1. After clone the project, use the comand
+    ```sh
+    yarn
+    ```
+    for install all dependencies.
+
+2. Use the bellow comand for run the aplication.
+    ```ssh
+    yarn start
+    ```
+<!-- LICENSE -->
+
+# **License**
+
+Distributed under license MIT. See `LICENSE` for more informations.
+
+<!-- CONTACT -->
+</br>
+
+# **Contact**
+
+### Renan Oliveira - **renanlido@yahoo.com.br**
+
+[Github](https://github.com/renanlido) - **https://github.com/renanlido** </br>
+[Linkedin](https://www.linkedin.com/in/renanlido/) - **https://www.linkedin.com/in/renanlido/**
+
+</br></br>
+Thank you for coming!! 😊🤗
