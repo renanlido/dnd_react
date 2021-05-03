@@ -11,7 +11,7 @@
 </div>
 
 <!--THE RESULT-->
-## **Português**
+### **Português**
 <br/>
 
 # <strong>O projeto!</strong>
@@ -74,7 +74,7 @@ Obrigado por ter vindo 😊🤗
 ----------
 
 
-## **English**
+### **English**
 <br/>
 
 <!--THE RESULT-->
