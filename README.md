@@ -11,6 +11,8 @@
 </div>
 
 <!--THE RESULT-->
+## **Português**
+<br/>
 
 # <strong>O projeto!</strong>
 <div>
@@ -22,9 +24,6 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
-## **Português**
-<br/>
-
 # <strong>Sobre o Projeto</strong>
 
 Neste projeto, criei uma lista de tarefas.
